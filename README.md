@@ -1,7 +1,7 @@
 # HyperGlassLevel_01
-#The Pyramid: Core logic temple running enders!
-#Download Open
-# CPY txt->.html
+# The Pyramid: Core logic temple running enders!
+# Download Open
+# CHANGE .md->.html
 
  #------------------------------------------
 <!DOCTYPE html>
